@@ -1,4 +1,8 @@
-# Filterable Gallery with React.js, Vite, and Tailwind CSS
+# Filterable Gallery with React.js, Vite, Tailwind CSS and TFv8.
+
+```
+BE Python: https://github.com/vth20/image-keywords
+```
 
 This is a simple filterable gallery application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
 
@@ -25,13 +29,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Signor1/filterableGallery.git
+   [git clone https://github.com/vth20/images-gallery.git](https://github.com/vth20/images-gallery.git)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-gallery-project
+   cd images-gallery
    ```
 
 3. Install dependencies:
